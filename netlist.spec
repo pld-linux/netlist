@@ -47,13 +47,11 @@ rm -rf $RPM_BUILD_ROOT
 	BINDIR=%{_bindir} \
 	MANDIR=%{_mandir}
 
-gzip -9nf LICENSE
-
 %clean
 rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc *.gz
+%doc LICENSE
 %attr(2755,root,proc) %{_bindir}/netlist
 %{_mandir}/man1/netlist.1*
