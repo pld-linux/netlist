@@ -5,10 +5,6 @@ Version:	2.0
 Release:	2
 License:	distributable
 Group:		Networking
-Group(de):	Netzwerkwesen
-Group(es):	Red
-Group(pl):	Sieciowe
-Group(pt_BR):	Rede
 Source0:	http://www.openwall.com/linux/contrib/%{name}-%{version}.tar.gz
 URL:		http://www.openwall.com/linux/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
