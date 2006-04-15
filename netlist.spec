@@ -1,12 +1,12 @@
 Summary:	A program to list active Internet connections and sockets
 Summary(pl):	Program pokazuj±cy aktywne po³±czenia i gniazdka
 Name:		netlist
-Version:	2.0
-Release:	3
+Version:	2.1
+Release:	1
 License:	distributable
 Group:		Networking
 Source0:	http://www.openwall.com/linux/contrib/%{name}-%{version}.tar.gz
-# Source0-md5:	2008aeacf13d8eee524909b9e143d62b
+# Source0-md5:	1e987e62c82a19418548681f5cfa2e90
 URL:		http://www.openwall.com/linux/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
