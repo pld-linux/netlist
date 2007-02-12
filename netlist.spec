@@ -1,5 +1,5 @@
 Summary:	A program to list active Internet connections and sockets
-Summary(pl):	Program pokazuj±cy aktywne po³±czenia i gniazdka
+Summary(pl.UTF-8):   Program pokazujÄ…cy aktywne poÅ‚Ä…czenia i gniazdka
 Name:		netlist
 Version:	2.1
 Release:	1
@@ -21,17 +21,17 @@ netlist was created to oppose restrictive tendencies in security. Your
 use of netlist must be in accordance with this intent. Please see the
 LICENSE for information on this and other licensing conditions.
 
-%description -l pl
-Uruchomiony przez nieuprzywilejowanego u¿ytkownika, netlist pokazuje
-aktywne po³±czenia oraz nas³uchuj±ce gniazdka tego u¿ytkownika.
+%description -l pl.UTF-8
+Uruchomiony przez nieuprzywilejowanego uÅ¼ytkownika, netlist pokazuje
+aktywne poÅ‚Ä…czenia oraz nasÅ‚uchujÄ…ce gniazdka tego uÅ¼ytkownika.
 
-Uruchomione przez roota lub u¿ytkownika nale¿±cego do grupy z dostêpem
+Uruchomione przez roota lub uÅ¼ytkownika naleÅ¼Ä…cego do grupy z dostÄ™pem
 do /proc, pokazuje wszystkie aktywne gniazdka TCP, UDP i raw w
 systemie.
 
-netlist zosta³ stworzony by opanowaæ restryktywne tendencje w
-bezpieczeñstwie. U¿ycie netlist musi byæ zgodne z tymi intencjami. W
-pliku LICENSE znajduj± siê stosowne informacje.
+netlist zostaÅ‚ stworzony by opanowaÄ‡ restryktywne tendencje w
+bezpieczeÅ„stwie. UÅ¼ycie netlist musi byÄ‡ zgodne z tymi intencjami. W
+pliku LICENSE znajdujÄ… siÄ™ stosowne informacje.
 
 %prep
 %setup -q
