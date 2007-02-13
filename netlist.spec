@@ -1,5 +1,5 @@
 Summary:	A program to list active Internet connections and sockets
-Summary(pl.UTF-8):   Program pokazujący aktywne połączenia i gniazdka
+Summary(pl.UTF-8):	Program pokazujący aktywne połączenia i gniazdka
 Name:		netlist
 Version:	2.1
 Release:	1
